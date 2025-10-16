@@ -6,6 +6,8 @@ I’m a developer passionate about building efficient and scalable software. I w
 
 
 # 💻 Tech Stack:
+
+## Languages
 <p align="center">
   <a href="https://dart.dev" title="Dart">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="48" height="48"/>
@@ -22,29 +24,12 @@ I’m a developer passionate about building efficient and scalable software. I w
   <a href="https://www.python.org" title="Python">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48" height="48"/>
   </a>
-  <a href="https://firebase.google.com" title="Firebase">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="48" height="48"/>
-  </a>
-  <a href="https://aws.amazon.com" title="AWS">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="48" height="48"/>
-  </a>
-  <a href="https://www.anaconda.com" title="Anaconda">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="48" height="48"/>
-  </a>
+</p>
+
+## Frameworks & Libraries
+<p align="center">
   <a href="https://flutter.dev" title="Flutter">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="48" height="48"/>
-  </a>
-  <a href="https://www.jenkins.io" title="Jenkins">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="48" height="48"/>
-  </a>
-  <a href="https://nginx.org" title="Nginx">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="48" height="48"/>
-  </a>
-  <a href="https://cassandra.apache.org" title="Apache Cassandra">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cassandra/cassandra-original.svg" alt="Apache Cassandra" width="48" height="48"/>
-  </a>
-  <a href="https://www.mysql.com" title="MySQL">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48"/>
   </a>
   <a href="https://numpy.org" title="NumPy">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="48" height="48"/>
@@ -67,6 +52,41 @@ I’m a developer passionate about building efficient and scalable software. I w
   <a href="https://keras.io" title="Keras">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" width="48" height="48"/>
   </a>
+</p>
+
+## Cloud & DevOps
+<p align="center">
+  <a href="https://firebase.google.com" title="Firebase">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="48" height="48"/>
+  </a>
+  <a href="https://aws.amazon.com" title="AWS">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="48" height="48"/>
+  </a>
+  <a href="https://www.docker.com" title="Docker">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="48" height="48"/>
+  </a>
+  <a href="https://kubernetes.io" title="Kubernetes">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="48" height="48"/>
+  </a>
+  <a href="https://www.jenkins.io" title="Jenkins">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="48" height="48"/>
+  </a>
+  <a href="https://nginx.org" title="Nginx">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="48" height="48"/>
+  </a>
+</p>
+
+## Databases & Tools
+<p align="center">
+  <a href="https://cassandra.apache.org" title="Apache Cassandra">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cassandra/cassandra-original.svg" alt="Apache Cassandra" width="48" height="48"/>
+  </a>
+  <a href="https://www.mysql.com" title="MySQL">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48"/>
+  </a>
+  <a href="https://www.anaconda.com" title="Anaconda">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="48" height="48"/>
+  </a>
   <a href="https://git-scm.com" title="Git">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48"/>
   </a>
@@ -76,34 +96,22 @@ I’m a developer passionate about building efficient and scalable software. I w
   <a href="https://github.com" title="GitHub">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="48" height="48"/>
   </a>
-  <a href="https://www.docker.com" title="Docker">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="48" height="48"/>
-  </a>
-  <a href="https://kubernetes.io" title="Kubernetes">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="48" height="48"/>
-  </a>
 </p>
 # 📊 GitHub Stats:
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=Aryan10N&show_icons=true&theme=dark&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=Aryan10N&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats for Aryan10N" />
-  </a>
-  <a href="https://streak-stats.demolab.com?user=Aryan10N&theme=dark&hide_border=true">
-    <img src="https://streak-stats.demolab.com?user=Aryan10N&theme=dark&hide_border=true" alt="GitHub Streak for Aryan10N" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aryan10N&show_icons=true&theme=dark&hide_border=true&hide_title=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan10N&theme=dark&hide_border=true&layout=compact&hide_title=true" alt="Top Languages" />
 </p>
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan10N&theme=dark&hide_border=true&layout=compact">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan10N&theme=dark&hide_border=true&layout=compact" alt="Top Languages for Aryan10N" />
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=Aryan10N&theme=dark&hide_border=true&hide_title=true" alt="GitHub Streak" />
 </p>
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan10N&theme=tokyo-night&hide_border=false&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan10N&theme=dark&hide_border=false&area=true&color=000000&bg_color=0d1117" alt="Contribution Graph" />
 </p>
 
-### Monthly Contributions (hover for daily counts)
+### Monthly Contributions
 <p align="center">
   <img src="https://raw.githubusercontent.com/Aryan10N/Aryan10N/main/contributions.svg" alt="Monthly Contributions Calendar" />
 </p>
