@@ -101,7 +101,7 @@ I’m a developer passionate about building efficient and scalable software. I w
 # 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan10N&theme=dark&hide_border=true&layout=compact&hide_title=true" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com/?user=Aryan10N&theme=dark&hide_border=true&hide_title=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Aryan10N&theme=dark&hide_border=true&hide_title=true&stroke=000000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakLabel=5BCDEC" alt="GitHub Streak" />
 </p>
 
 ## 📈 Contribution Graph
