@@ -1,0 +1,14 @@
+# lychee link checker configuration
+verbose = true
+retry_wait_time = 2
+max_retries = 3
+timeout = 20
+
+# Exclude local paths and badges
+exclude = [
+  "^mailto:",
+  "^tel:",
+]
+
+# Read ignores from file
+exclude_path = [".lycheeignore"]

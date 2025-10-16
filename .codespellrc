@@ -1,0 +1,5 @@
+[codespell]
+ignore-words-list = crate,fo,teh,nd,ba
+skip = .git,**/node_modules/**,**/vendor/**
+check-filenames = true
+check-hidden = true

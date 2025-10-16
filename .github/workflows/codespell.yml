@@ -1,0 +1,29 @@
+name: Codespell
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+  schedule:
+    - cron: '23 4 * * 2'
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+jobs:
+  spellcheck:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Run codespell
+        uses: codespell-project/actions-codespell@v2
+        with:
+          check_filenames: true
+          check_hidden: true
+          ignore_words_list: crate,fo,teh,nd,ba
+          path: .
+          skip: .git,**/node_modules/**,**/vendor/**
