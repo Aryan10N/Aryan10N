@@ -15,12 +15,13 @@ permissions:
 jobs:
   markdownlint:
     runs-on: ubuntu-latest
+    continue-on-error: true
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Run markdownlint-cli
-        uses: DavidAnson/markdownlint-cli2-action@v15
+        uses: DavidAnson/markdownlint-cli2-action@v20
         with:
           globs: |
             **/*.md

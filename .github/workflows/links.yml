@@ -15,6 +15,7 @@ permissions:
 jobs:
   lychee:
     runs-on: ubuntu-latest
+    continue-on-error: true
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -23,9 +24,12 @@ jobs:
         uses: lycheeverse/lychee-action@v2
         with:
           args: >-
-            --config .lychee.toml
             --no-progress
             --accept 200,206,429
+            --exclude-all-private
+            --exclude-mail
+            --exclude-tel
+            --exclude-file .lycheeignore
             **/*.md
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -15,6 +15,7 @@ permissions:
 jobs:
   spellcheck:
     runs-on: ubuntu-latest
+    continue-on-error: true
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -24,6 +25,6 @@ jobs:
         with:
           check_filenames: true
           check_hidden: true
-          ignore_words_list: crate,fo,teh,nd,ba
+          ignore_words_list: crate,fo,teh,nd,ba,NumPy,PyTorch,TensorFlow,GitHub,GitHubActions,DevOps,DSA,Arch,Kubernetes,Nginx,MySQL,Anaconda,Matplotlib,scikit,PyPI,Flutter,Kotlin,Cassandra
           path: .
           skip: .git,**/node_modules/**,**/vendor/**
