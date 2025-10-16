@@ -1,0 +1,36 @@
+name: Test Metrics Token
+
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+jobs:
+  test-token:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Test METRICS_TOKEN
+        run: |
+          echo "Testing token availability..."
+          if [ -z "${{ secrets.METRICS_TOKEN }}" ]; then
+            echo "❌ METRICS_TOKEN is not set"
+            echo "Available secrets:"
+            echo "- GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN != '' }}"
+          else
+            echo "✅ METRICS_TOKEN is set (length: ${#METRICS_TOKEN})"
+            echo "Token starts with: ${METRICS_TOKEN:0:10}..."
+          fi
+        env:
+          METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
+
+      - name: Test with GITHUB_TOKEN fallback
+        run: |
+          echo "Testing with GITHUB_TOKEN as fallback..."
+          TOKEN="${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}"
+          if [ -z "$TOKEN" ]; then
+            echo "❌ No token available"
+            exit 1
+          else
+            echo "✅ Token available (length: ${#TOKEN})"
+          fi
