@@ -99,7 +99,14 @@ I’m a developer passionate about building efficient and scalable software. I w
 </p>
 
 ## 📈 Contribution Graph
-![](https://github-readme-activity-graph.vercel.app/graph?username=Aryan10N&theme=tokyo-night&hide_border=false&area=true)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan10N&theme=tokyo-night&hide_border=false&area=true" alt="Contribution Graph" />
+</p>
+
+### Monthly Contributions (hover for daily counts)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aryan10N/Aryan10N/main/contributions.svg" alt="Monthly Contributions Calendar" />
+</p>
 
 ## 🐍 Contribution Snake
 <p align="center">
