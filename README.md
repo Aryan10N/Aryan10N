@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=900&color=70A5FD&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Aryan;Developer+on+Linux+%28Arch%29+%7C+Flutter%2C+Kotlin%2C+C%2FC%2B%2B%2C+Python;Clean%2C+efficient%2C+scalable+software+%26+DevOps+automation" alt="Typing introduction for Aryan" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=900&color=70A5FD&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Aryan;Developer,+Linux+%28Arch%29+%7C+Flutter%2C+Kotlin%2C+C%2FC%2B%2B%2C+Python;Clean%2C+efficient%2C+scalable+software+%26+DevOps+automation" alt="Typing introduction for Aryan" />
 </p>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F2027,50:203A43,100:2C5364&section=header&reversal=true" alt="section divider" />
 I’m a developer passionate about building efficient and scalable software. I work primarily on Linux (Arch), explore app development with Flutter and Kotlin, and dive into system programming in C/C++ and DevOps automation. I’m currently learning AI-ML and DSA with C++, aiming to sharpen my problem-solving and development skills.
