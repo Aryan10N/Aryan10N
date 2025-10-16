@@ -102,10 +102,14 @@ I’m a developer passionate about building efficient and scalable software. I w
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Aryan10N&theme=tokyo-night&hide_border=false&area=true)
 
 ## 🐍 Contribution Snake
-![GitHub Contribution Snake](https://github.com/Aryan10N/Aryan10N/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aryan10N/Aryan10N/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
 
 ## 📊 Metrics Dashboard
-<img src="https://raw.githubusercontent.com/Aryan10N/Aryan10N/main/metrics.svg" alt="GitHub Metrics for Aryan10N" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aryan10N/Aryan10N/main/metrics.svg" alt="GitHub Metrics for Aryan10N" />
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F2027,50:203A43,100:2C5364&section=footer" alt="section divider" />
 
