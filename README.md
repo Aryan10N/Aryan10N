@@ -9,91 +9,91 @@ I’m a developer passionate about building efficient and scalable software. I w
 
 ## Languages
 <p align="center">
-  <a href="https://dart.dev" title="Dart">
+  <a href="https://dart.dev" title="Dart" style="margin: 0 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="48" height="48"/>
   </a>
-  <a href="https://isocpp.org/" title="C++">
+  <a href="https://isocpp.org/" title="C++" style="margin: 0 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48"/>
   </a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C">
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C" style="margin: 0 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="48" height="48"/>
   </a>
-  <a href="https://kotlinlang.org" title="Kotlin">
+  <a href="https://kotlinlang.org" title="Kotlin" style="margin: 0 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="48" height="48"/>
   </a>
-  <a href="https://www.python.org" title="Python">
+  <a href="https://www.python.org" title="Python" style="margin: 0 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48" height="48"/>
   </a>
 </p>
 
 ## Frameworks & Libraries
 <p align="center">
-  <a href="https://flutter.dev" title="Flutter">
+  <a href="https://flutter.dev" title="Flutter" style="margin: 0 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="48" height="48"/>
   </a>
-  <a href="https://numpy.org" title="NumPy">
+  <a href="https://numpy.org" title="NumPy" style="margin: 0 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="48" height="48"/>
   </a>
-  <a href="https://pandas.pydata.org" title="Pandas">
+  <a href="https://pandas.pydata.org" title="Pandas" style="margin: 0 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48"/>
   </a>
-  <a href="https://pytorch.org" title="PyTorch">
+  <a href="https://pytorch.org" title="PyTorch" style="margin: 0 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="48" height="48"/>
   </a>
-  <a href="https://scikit-learn.org" title="scikit-learn">
+  <a href="https://scikit-learn.org" title="scikit-learn" style="margin: 0 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="48" height="48"/>
   </a>
-  <a href="https://www.tensorflow.org" title="TensorFlow">
+  <a href="https://www.tensorflow.org" title="TensorFlow" style="margin: 0 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="48" height="48"/>
   </a>
-  <a href="https://matplotlib.org" title="Matplotlib">
+  <a href="https://matplotlib.org" title="Matplotlib" style="margin: 0 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="48" height="48"/>
   </a>
-  <a href="https://keras.io" title="Keras">
+  <a href="https://keras.io" title="Keras" style="margin: 0 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" width="48" height="48"/>
   </a>
 </p>
 
 ## Cloud & DevOps
 <p align="center">
-  <a href="https://firebase.google.com" title="Firebase">
+  <a href="https://firebase.google.com" title="Firebase" style="margin: 0 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="48" height="48"/>
   </a>
-  <a href="https://aws.amazon.com" title="AWS">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="48" height="48"/>
+  <a href="https://aws.amazon.com" title="AWS" style="margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="48" height="48"/>
   </a>
-  <a href="https://www.docker.com" title="Docker">
+  <a href="https://www.docker.com" title="Docker" style="margin: 0 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="48" height="48"/>
   </a>
-  <a href="https://kubernetes.io" title="Kubernetes">
+  <a href="https://kubernetes.io" title="Kubernetes" style="margin: 0 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="48" height="48"/>
   </a>
-  <a href="https://www.jenkins.io" title="Jenkins">
+  <a href="https://www.jenkins.io" title="Jenkins" style="margin: 0 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="48" height="48"/>
   </a>
-  <a href="https://nginx.org" title="Nginx">
+  <a href="https://nginx.org" title="Nginx" style="margin: 0 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="48" height="48"/>
   </a>
 </p>
 
 ## Databases & Tools
 <p align="center">
-  <a href="https://cassandra.apache.org" title="Apache Cassandra">
+  <a href="https://cassandra.apache.org" title="Apache Cassandra" style="margin: 0 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cassandra/cassandra-original.svg" alt="Apache Cassandra" width="48" height="48"/>
   </a>
-  <a href="https://www.mysql.com" title="MySQL">
+  <a href="https://www.mysql.com" title="MySQL" style="margin: 0 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48"/>
   </a>
-  <a href="https://www.anaconda.com" title="Anaconda">
+  <a href="https://www.anaconda.com" title="Anaconda" style="margin: 0 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="48" height="48"/>
   </a>
-  <a href="https://git-scm.com" title="Git">
+  <a href="https://git-scm.com" title="Git" style="margin: 0 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48"/>
   </a>
-  <a href="https://github.com/features/actions" title="GitHub Actions">
+  <a href="https://github.com/features/actions" title="GitHub Actions" style="margin: 0 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="48" height="48"/>
   </a>
-  <a href="https://github.com" title="GitHub">
+  <a href="https://github.com" title="GitHub" style="margin: 0 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="48" height="48"/>
   </a>
 </p>
@@ -101,8 +101,10 @@ I’m a developer passionate about building efficient and scalable software. I w
 # 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan10N&theme=dark&hide_border=true&layout=compact&hide_title=true" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan10N&theme=dark&hide_border=true&stroke=000000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakLabel=5BCDEC" alt="GitHub Streak" />
-</p>
+
+<h2 align="center">📊 GitHub Contribution Streak</h2>
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Aryan10N&theme=tokyonight&short_numbers=true" alt="GitHub Streak" /></a>
 
 ## 📈 Contribution Graph
 <p align="center">
