@@ -85,9 +85,17 @@ I’m a developer passionate about building efficient and scalable software. I w
 </p>
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryan10N&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats for Aryan10N" />
-  <img src="https://streak-stats.demolab.com/?user=Aryan10N&theme=dark&hide_border=true" alt="GitHub Streak for Aryan10N" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan10N&theme=dark&hide_border=true&layout=compact" alt="Top Languages for Aryan10N" />
+  <a href="https://github-readme-stats.vercel.app/api?username=Aryan10N&show_icons=true&theme=dark&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=Aryan10N&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats for Aryan10N" />
+  </a>
+  <a href="https://streak-stats.demolab.com?user=Aryan10N&theme=dark&hide_border=true">
+    <img src="https://streak-stats.demolab.com?user=Aryan10N&theme=dark&hide_border=true" alt="GitHub Streak for Aryan10N" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan10N&theme=dark&hide_border=true&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan10N&theme=dark&hide_border=true&layout=compact" alt="Top Languages for Aryan10N" />
+  </a>
 </p>
 
 ## 📈 Contribution Graph
