@@ -1,5 +1,5 @@
 [codespell]
-ignore-words-list = crate,fo,teh,nd,ba
+ignore-words-list = crate,fo,teh,nd,ba,NumPy,PyTorch,TensorFlow,GitHub,GitHubActions,DevOps,DSA,Arch,Kubernetes,Nginx,MySQL,Anaconda,Matplotlib,scikit,PyPI,Flutter,Kotlin,Cassandra
 skip = .git,**/node_modules/**,**/vendor/**
 check-filenames = true
 check-hidden = true
