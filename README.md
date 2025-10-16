@@ -97,23 +97,16 @@ I’m a developer passionate about building efficient and scalable software. I w
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="48" height="48"/>
   </a>
 </p>
+
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryan10N&show_icons=true&theme=dark&hide_border=true&hide_title=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan10N&theme=dark&hide_border=true&layout=compact&hide_title=true" alt="Top Languages" />
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=Aryan10N&theme=dark&hide_border=true&hide_title=true" alt="GitHub Streak" />
 </p>
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan10N&theme=dark&hide_border=false&area=true&color=000000&bg_color=0d1117" alt="Contribution Graph" />
-</p>
-
-### Monthly Contributions
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aryan10N/Aryan10N/main/contributions.svg" alt="Monthly Contributions Calendar" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan10N&theme=tokyo-night&hide_border=false&area=true" alt="Contribution Graph" />
 </p>
 
 ## 🐍 Contribution Snake
