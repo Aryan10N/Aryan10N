@@ -67,30 +67,14 @@ I’m a developer passionate about building efficient and scalable software. I w
   </a>
 </p>
 
-# 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan10N&theme=dark&hide_border=true&layout=compact&hide_title=true" alt="Top Languages" />
-</p>
-
 <h2 align="center">📊 GitHub Contribution Streak</h2>
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Aryan10N&theme=tokyonight&short_numbers=true" alt="GitHub Streak" /></a>
-</p>
-
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan10N&theme=tokyo-night&hide_border=false&area=true" alt="Contribution Graph" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F2027,50:203A43,100:2C5364&section=footer" alt="section divider" />
 
 ### ✍️ Random Dev Quote
 ![Random developer quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![Top contributed repositories](https://github-contributor-stats.vercel.app/api?username=Aryan10N&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![Profile visit count](https://visitcount.itsvg.in/api?id=Aryan10N&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->  
