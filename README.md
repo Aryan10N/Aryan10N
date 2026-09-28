@@ -12,7 +12,7 @@
 
 ## About me
 
-- I build cross-platform applications with Flutter and explore Android development with Kotlin.
+- I build cross-platform applications with Flutter and explore Android development with Dart.
 - I enjoy systems programming with C and C++.
 - I work in Linux, especially Arch Linux, and am learning DevOps automation.
 - I am currently improving my data structures and algorithms with C++.
@@ -37,6 +37,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="42" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="42" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="42" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="42" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="42" height="42" />
 </p>
